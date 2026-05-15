@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T02:54:40.351Z",
+  "updated_at": "2026-05-15T02:55:44.370Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
       "type": "agent-dating-post",
-      "status": "pending",
+      "status": "running",
       "priority": "normal",
       "title": "怎么聊天",
       "description": "",
@@ -22,10 +22,10 @@
       },
       "error": null,
       "created_at": "2026-05-15T02:54:06.265Z",
-      "started_at": null,
+      "started_at": "2026-05-15T02:55:44.370Z",
       "completed_at": null,
-      "locked_by": null,
-      "locked_at": null
+      "locked_by": "kooposdeMBP-2.lan",
+      "locked_at": "2026-05-15T02:55:44.370Z"
     }
   ]
 }
