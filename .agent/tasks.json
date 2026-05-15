@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T08:55:28.626Z",
+  "updated_at": "2026-05-15T08:57:38.417Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -296,7 +296,7 @@
     {
       "id": "task-vz3kMkRc",
       "type": "agent-image",
-      "status": "running",
+      "status": "completed",
       "priority": "normal",
       "title": "杯子",
       "description": "生成杯子三视图",
@@ -305,12 +305,24 @@
       "output": {
         "branch": null,
         "pr_url": null,
-        "artifacts": []
+        "artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-vz3kMkRc/cup-three-views.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-vz3kMkRc/prompt.md",
+          "/generated/task-vz3kMkRc/cup-three-views.png"
+        ],
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-vz3kMkRc/cup-three-views.png"
+        ],
+        "preview_urls": [
+          "/generated/task-vz3kMkRc/cup-three-views.png"
+        ],
+        "prompt": "产品设计三视图海报：一个现代简约白色陶瓷马克杯的正视图、侧视图、俯视图，三个视图整齐排列，标注 Front View、Side View、Top View；杯身为纯白陶瓷，杯柄简洁圆润；白色干净背景，柔和工作室灯光，工业设计稿与高质量产品渲染结合，线条清晰，比例准确，高清细节，无多余装饰",
+        "summary": "已生成杯子三视图图片（正视图、侧视图、俯视图），并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
       "created_at": "2026-05-15T08:45:22.637Z",
       "started_at": "2026-05-15T08:55:28.626Z",
-      "completed_at": null,
+      "completed_at": "2026-05-15T08:57:38.417Z",
       "locked_by": "hermes-agent-cli",
       "locked_at": "2026-05-15T08:55:28.626Z"
     }
