@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T03:22:22.516Z",
+  "updated_at": "2026-05-15T03:23:05.781Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
-      "type": "agent-image",
+      "type": "agent-dating-post",
       "status": "completed",
       "priority": "normal",
       "title": "猪在天上飞",
