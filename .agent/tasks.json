@@ -265,16 +265,24 @@
     {
       "id": "task-r0DnDsBx",
       "type": "agent-image",
-      "status": "running",
+      "status": "completed",
       "priority": "normal",
       "title": "一只猫",
       "description": "三花猫",
       "acceptance_criteria": [],
       "input": {},
       "output": {
-        "branch": null,
-        "pr_url": null,
-        "artifacts": []
+        "artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-r0DnDsBx/cat.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-r0DnDsBx/prompt.md"
+        ],
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-r0DnDsBx/cat.png"
+        ],
+        "preview_urls": [
+          "/generated/task-r0DnDsBx/cat.png"
+        ],
+        "summary": "已使用 MiniMax mmx 生成三花猫图片，保存到对应目录"
       },
       "error": null,
       "created_at": "2026-05-15T08:08:00.608Z",
