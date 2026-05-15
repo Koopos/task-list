@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T09:05:44.625Z",
+  "updated_at": "2026-05-15T09:25:33.327354Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -351,7 +351,7 @@
     {
       "id": "task-UWTK0uQ5",
       "type": "agent-image",
-      "status": "running",
+      "status": "completed",
       "priority": "normal",
       "title": "一只狗",
       "description": "一只狗",
@@ -360,15 +360,27 @@
       "output": {
         "branch": null,
         "pr_url": null,
-        "artifacts": []
+        "artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-UWTK0uQ5/dog.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-UWTK0uQ5/prompt.md",
+          "/generated/task-UWTK0uQ5/dog.png"
+        ],
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-UWTK0uQ5/dog.png"
+        ],
+        "preview_urls": [
+          "/generated/task-UWTK0uQ5/dog.png"
+        ],
+        "prompt": "一只可爱的狗坐在阳光洒落的草地上，毛发柔软蓬松，眼神温柔明亮，背景有柔和的绿色树影和浅蓝天空，电影级自然光，写实摄影质感，高清细节，温暖治愈氛围，竖版构图，无文字",
+        "summary": "已使用 MiniMax mmx 生成一张写实温暖风格狗狗竖版图片，并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
       "created_at": "2026-05-15T09:05:41.125Z",
       "started_at": null,
-      "completed_at": null,
+      "completed_at": "2026-05-15T09:25:33.327354Z",
       "locked_by": "kooposdeMBP-2.lan",
       "locked_at": "2026-05-15T09:21:24.493105Z",
-      "updated_at": "2026-05-15T09:21:24.493105Z"
+      "updated_at": "2026-05-15T09:25:33.327354Z"
     }
   ]
 }
