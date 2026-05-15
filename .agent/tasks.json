@@ -329,7 +329,7 @@
     {
       "id": "task-KFXPcOlQ",
       "type": "agent-dating-post",
-      "status": "running",
+      "status": "completed",
       "priority": "normal",
       "title": "成年人不联系",
       "description": "",
@@ -338,15 +338,56 @@
       "output": {
         "branch": null,
         "pr_url": null,
-        "artifacts": []
+        "artifacts": [
+          "/Users/koopos/AIGC/stories/github-file-agent/task-KFXPcOlQ.md",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-1.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-2.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-3.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-4.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-5.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-6.png",
+          "/generated/task-KFXPcOlQ/codex-page-1.png",
+          "/generated/task-KFXPcOlQ/codex-page-2.png",
+          "/generated/task-KFXPcOlQ/codex-page-3.png",
+          "/generated/task-KFXPcOlQ/codex-page-4.png",
+          "/generated/task-KFXPcOlQ/codex-page-5.png",
+          "/generated/task-KFXPcOlQ/codex-page-6.png"
+        ],
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-1.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-2.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-3.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-4.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-5.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-KFXPcOlQ/codex-page-6.png"
+        ],
+        "preview_urls": [
+          "/generated/task-KFXPcOlQ/codex-page-1.png",
+          "/generated/task-KFXPcOlQ/codex-page-2.png",
+          "/generated/task-KFXPcOlQ/codex-page-3.png",
+          "/generated/task-KFXPcOlQ/codex-page-4.png",
+          "/generated/task-KFXPcOlQ/codex-page-5.png",
+          "/generated/task-KFXPcOlQ/codex-page-6.png"
+        ],
+        "pages": {
+          "page_1": "成年人不联系",
+          "page_2": "最累的不是没人回你。\n\n是你明明感觉到对方在变淡，\n却还要假装自己没那么在意。",
+          "page_3": "成年人不联系，很多时候不是忙。\n\n是真的没有那么想靠近。\n\n一个人如果想见你、想回你，\n他会在缝隙里找时间。",
+          "page_4": "其实感情里最伤人的，\n不是一句拒绝。\n\n是那种忽冷忽热，\n让你一边期待，\n一边怀疑自己是不是太认真。",
+          "page_5": "说白了，舒服的关系不会让你反复猜。\n\n你不用研究语气，\n不用计算谁先主动，\n更不用把每次沉默都解释成“他可能很忙”。",
+          "page_6": "真正想靠近你的人，\n不会让你一直站在原地等。"
+        },
+        "comment_hook": "成年人超过三天不主动联系，其实答案已经很明显了。你同意吗？",
+        "summary": "已生成“成年人不联系”相亲/情感图文 6 页文案，并生成 6 张 1080x1440 Codex 设计图文卡片。",
+        "image_style": "codex-xhs-restrained"
       },
       "error": null,
       "created_at": "2026-05-15T08:58:35.023Z",
       "started_at": null,
-      "completed_at": null,
+      "completed_at": "2026-05-15T09:29:12Z",
       "locked_by": "kooposdeMBP-2.lan",
       "locked_at": "2026-05-15T09:21:24.493105Z",
-      "updated_at": "2026-05-15T09:21:24.493105Z"
+      "updated_at": "2026-05-15T09:29:12Z"
     },
     {
       "id": "task-UWTK0uQ5",
