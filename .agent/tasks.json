@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T06:20:00.000Z",
+  "updated_at": "2026-05-15T06:25:00.000Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -146,12 +146,12 @@
         },
         "comment_hook": "相亲时，如果对方从不主动推进关系，是不是说明他其实没那么喜欢？",
         "image_artifacts": [
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-1.png",
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-2.png",
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-3.png",
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-4.png",
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-5.png",
-          "/Users/koopos/AIGC/images/github-file-agent/task-YvscQYNL/codex-page-6.png"
+          "/generated/task-YvscQYNL/codex-page-1.png",
+          "/generated/task-YvscQYNL/codex-page-2.png",
+          "/generated/task-YvscQYNL/codex-page-3.png",
+          "/generated/task-YvscQYNL/codex-page-4.png",
+          "/generated/task-YvscQYNL/codex-page-5.png",
+          "/generated/task-YvscQYNL/codex-page-6.png"
         ],
         "preview_urls": [
           "/generated/task-YvscQYNL/codex-page-1.png",
