@@ -345,7 +345,8 @@
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
-      "locked_at": null
+      "locked_at": null,
+      "updated_at": "2026-05-15T09:15:54.174844Z"
     },
     {
       "id": "task-UWTK0uQ5",
@@ -366,7 +367,8 @@
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
-      "locked_at": null
+      "locked_at": null,
+      "updated_at": "2026-05-15T09:15:54.174844Z"
     }
   ]
 }
