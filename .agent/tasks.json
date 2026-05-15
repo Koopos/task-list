@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T02:37:32Z",
+  "updated_at": "2026-05-15T02:54:40.351Z",
   "tasks": [
     {
-      "id": "task-WZ4FADP7",
-      "type": "agent-image",
-      "status": "blocked",
+      "id": "task-cT5A7Cu4",
+      "type": "agent-dating-post",
+      "status": "pending",
       "priority": "normal",
-      "title": "生成图片",
+      "title": "怎么聊天",
       "description": "",
       "acceptance_criteria": [],
       "input": {
@@ -18,13 +18,12 @@
       "output": {
         "branch": null,
         "pr_url": null,
-        "artifacts": [],
-        "summary": "未生成图片；任务缺少必要的图片主题或描述，已阻塞等待补充。"
+        "artifacts": []
       },
-      "error": "需求不清楚：agent-image 任务缺少图片主题/描述。请补充要生成的画面内容；如有要求，也请提供尺寸、风格、文字、参考图或用途。",
-      "created_at": "2026-05-15T02:35:19.439Z",
+      "error": null,
+      "created_at": "2026-05-15T02:54:06.265Z",
       "started_at": null,
-      "completed_at": "2026-05-15T02:37:32Z",
+      "completed_at": null,
       "locked_by": null,
       "locked_at": null
     }
