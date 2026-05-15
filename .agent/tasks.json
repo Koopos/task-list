@@ -239,7 +239,7 @@
     {
       "id": "task-Ft81w8gn",
       "type": "agent-dev",
-      "status": "running",
+      "status": "completed",
       "priority": "normal",
       "title": "baby",
       "description": "1.minescreen里面的查看更新功能去掉",
@@ -250,14 +250,15 @@
         ]
       },
       "output": {
-        "branch": null,
-        "pr_url": null,
-        "artifacts": []
+        "branch": "agent/task-Ft81w8gn-baby",
+        "pr_url": "https://github.com/Koopos/baby/pull/8",
+        "artifacts": [],
+        "summary": "移除 AboutScreen 中的检查新版本功能，PR 已创建"
       },
       "error": null,
       "created_at": "2026-05-15T07:27:48.921Z",
       "started_at": null,
-      "completed_at": null,
+      "completed_at": "2026-05-15T07:57:13.015643Z",
       "locked_by": null,
       "locked_at": null
     }
