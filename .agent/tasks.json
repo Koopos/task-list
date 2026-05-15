@@ -1,16 +1,19 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T02:56:26.897Z",
+  "updated_at": "2026-05-15T03:22:22.516Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
-      "type": "agent-dating-post",
+      "type": "agent-image",
       "status": "completed",
       "priority": "normal",
-      "title": "怎么聊天",
-      "description": "",
-      "acceptance_criteria": [],
+      "title": "猪在天上飞",
+      "description": "猪在天上飞",
+      "acceptance_criteria": [
+        "猪在天上飞"
+      ],
       "input": {
+        "style": "皮克斯",
         "references": [],
         "require_screenshot": false,
         "auto_pr": true
@@ -19,9 +22,33 @@
         "branch": null,
         "pr_url": null,
         "artifacts": [
-          "/Users/koopos/AIGC/stories/github-file-agent/task-cT5A7Cu4.md"
+          "/Users/koopos/AIGC/stories/github-file-agent/task-cT5A7Cu4.md",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-1.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-2.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-3.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-4.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-5.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/page-6.png",
+          "/generated/task-cT5A7Cu4/page-1.png",
+          "/generated/task-cT5A7Cu4/page-2.png",
+          "/generated/task-cT5A7Cu4/page-3.png",
+          "/generated/task-cT5A7Cu4/page-4.png",
+          "/generated/task-cT5A7Cu4/page-5.png",
+          "/generated/task-cT5A7Cu4/page-6.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-1.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-2.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-3.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-4.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-5.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-6.png",
+          "/generated/task-cT5A7Cu4/codex-page-1.png",
+          "/generated/task-cT5A7Cu4/codex-page-2.png",
+          "/generated/task-cT5A7Cu4/codex-page-3.png",
+          "/generated/task-cT5A7Cu4/codex-page-4.png",
+          "/generated/task-cT5A7Cu4/codex-page-5.png",
+          "/generated/task-cT5A7Cu4/codex-page-6.png"
         ],
-        "summary": "已生成 6 页相亲/成年人现实恋爱图文文案，风格真实、克制、扎心，并附评论区争议引导。",
+        "summary": "已生成 6 页相亲/成年人现实恋爱图文文案，风格真实、克制、扎心，并附评论区争议引导。 已补充生成 6 张 Codex 设计图文卡片 PNG。",
         "pages": {
           "page_1": "怎么聊天，才能不显得太用力？",
           "page_2": "很多成年人相亲，最累的不是没话题。\n\n是你明明已经很认真了，对方却只回几个字。\n\n你怕太主动显得掉价，怕太冷淡又错过机会。\n\n聊着聊着，像在被观察，也像在接受一场没有说明书的面试。",
@@ -30,14 +57,59 @@
           "page_5": "慢慢你会发现，舒服的聊天都有一个共同点：\n\n不是秒回，不是甜言蜜语，也不是每天从早聊到晚。\n\n而是对方会顺着你的话往下走，愿意解释，愿意分享，也愿意让你靠近一点。\n\n没有回应的热情，最后都会变成自我怀疑。",
           "page_6": "真正合适的人，不会让你每句话都像在考试。"
         },
-        "comment_hook": "如果一个人总是只回答、不延展、不反问，其实就是没那么想了解你。你同意吗？"
+        "comment_hook": "如果一个人总是只回答、不延展、不反问，其实就是没那么想了解你。你同意吗？",
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-1.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-2.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-3.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-4.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-5.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-cT5A7Cu4/codex-page-6.png"
+        ],
+        "preview_urls": [
+          "/generated/task-cT5A7Cu4/codex-page-1.png",
+          "/generated/task-cT5A7Cu4/codex-page-2.png",
+          "/generated/task-cT5A7Cu4/codex-page-3.png",
+          "/generated/task-cT5A7Cu4/codex-page-4.png",
+          "/generated/task-cT5A7Cu4/codex-page-5.png",
+          "/generated/task-cT5A7Cu4/codex-page-6.png"
+        ],
+        "image_style": "codex-xhs-restrained"
       },
       "error": null,
       "created_at": "2026-05-15T02:54:06.265Z",
-      "started_at": "2026-05-15T02:55:44.370Z",
-      "completed_at": "2026-05-15T02:56:26.897Z",
-      "locked_by": "kooposdeMBP-2.lan",
-      "locked_at": "2026-05-15T02:55:44.370Z"
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
+    },
+    {
+      "id": "task-cjr7O5Rk",
+      "type": "agent-image",
+      "status": "pending",
+      "priority": "normal",
+      "title": "猪在天上飞",
+      "description": "猪在天上飞",
+      "acceptance_criteria": [
+        "猪在天上飞"
+      ],
+      "input": {
+        "style": "科技感",
+        "references": [],
+        "require_screenshot": false,
+        "auto_pr": true
+      },
+      "output": {
+        "branch": null,
+        "pr_url": null,
+        "artifacts": []
+      },
+      "error": null,
+      "created_at": "2026-05-15T03:22:14.372Z",
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
     }
   ]
 }
