@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T04:08:00.000Z",
+  "updated_at": "2026-05-15T05:51:59.962Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -108,11 +108,32 @@
         "summary": "使用 MiniMax mmx 生成科技感小猪飞在天空中图片，9:16竖版"
       },
       "error": null,
-      "created_at": "2026-05-15T03:22:14.372Z",
-      "started_at": "2026-05-15T03:40:36.643513Z",
-      "completed_at": "2026-05-15T04:08:00.000Z",
-      "locked_by": "kooposdeMBP-2.lan",
-      "locked_at": "2026-05-15T03:40:36.643513Z"
+      "created_at": "2026-05-15T04:10:11.401Z",
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
+    },
+    {
+      "id": "task-YvscQYNL",
+      "type": "agent-dating-post",
+      "status": "pending",
+      "priority": "normal",
+      "title": "相亲怎么推进关系",
+      "description": "",
+      "acceptance_criteria": [],
+      "input": {},
+      "output": {
+        "branch": null,
+        "pr_url": null,
+        "artifacts": []
+      },
+      "error": null,
+      "created_at": "2026-05-15T05:40:01.893Z",
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
     }
   ]
 }
