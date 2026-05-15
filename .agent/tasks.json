@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T07:55:15.882Z",
+  "updated_at": "2026-05-15T08:08:07.502Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -258,7 +258,28 @@
       "error": null,
       "created_at": "2026-05-15T07:27:48.921Z",
       "started_at": null,
-      "completed_at": "2026-05-15T07:57:13.015643Z",
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
+    },
+    {
+      "id": "task-r0DnDsBx",
+      "type": "agent-image",
+      "status": "pending",
+      "priority": "normal",
+      "title": "一只猫",
+      "description": "三花猫",
+      "acceptance_criteria": [],
+      "input": {},
+      "output": {
+        "branch": null,
+        "pr_url": null,
+        "artifacts": []
+      },
+      "error": null,
+      "created_at": "2026-05-15T08:08:00.608Z",
+      "started_at": null,
+      "completed_at": null,
       "locked_by": null,
       "locked_at": null
     }
