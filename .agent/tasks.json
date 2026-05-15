@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T07:51:31Z",
+  "updated_at": "2026-05-15T07:55:15.882Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -256,10 +256,10 @@
       },
       "error": null,
       "created_at": "2026-05-15T07:27:48.921Z",
-      "started_at": "2026-05-15T07:51:31Z",
+      "started_at": null,
       "completed_at": null,
-      "locked_by": "kooposdeMBP-2.lan",
-      "locked_at": "2026-05-15T07:51:31Z"
+      "locked_by": null,
+      "locked_at": null
     }
   ]
 }
