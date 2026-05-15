@@ -1,5 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T02:34:02.475Z",
-  "tasks": []
+  "updated_at": "2026-05-15T02:35:25.953Z",
+  "tasks": [
+    {
+      "id": "task-WZ4FADP7",
+      "type": "agent-image",
+      "status": "pending",
+      "priority": "normal",
+      "title": "生成图片",
+      "description": "",
+      "acceptance_criteria": [],
+      "input": {
+        "references": [],
+        "require_screenshot": false,
+        "auto_pr": true
+      },
+      "output": {
+        "branch": null,
+        "pr_url": null,
+        "artifacts": []
+      },
+      "error": null,
+      "created_at": "2026-05-15T02:35:19.439Z",
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
+    }
+  ]
 }
