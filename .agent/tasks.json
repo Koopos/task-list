@@ -329,7 +329,7 @@
     {
       "id": "task-KFXPcOlQ",
       "type": "agent-dating-post",
-      "status": "running",
+      "status": "pending",
       "priority": "normal",
       "title": "成年人不联系",
       "description": "",
@@ -344,14 +344,14 @@
       "created_at": "2026-05-15T08:58:35.023Z",
       "started_at": null,
       "completed_at": null,
-      "locked_by": "kooposdeMBP-2.lan",
-      "locked_at": "2026-05-15T09:19:17.105888Z",
-      "updated_at": "2026-05-15T09:19:17.105888Z"
+      "locked_by": null,
+      "locked_at": null,
+      "updated_at": null
     },
     {
       "id": "task-UWTK0uQ5",
       "type": "agent-image",
-      "status": "running",
+      "status": "pending",
       "priority": "normal",
       "title": "一只狗",
       "description": "一只狗",
@@ -366,9 +366,9 @@
       "created_at": "2026-05-15T09:05:41.125Z",
       "started_at": null,
       "completed_at": null,
-      "locked_by": "kooposdeMBP-2.lan",
-      "locked_at": "2026-05-15T09:19:17.105888Z",
-      "updated_at": "2026-05-15T09:19:17.105888Z"
+      "locked_by": null,
+      "locked_at": null,
+      "updated_at": null
     }
   ]
 }
