@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T07:07:00.085Z",
+  "updated_at": "2026-05-15T07:06:59Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -173,7 +173,7 @@
     {
       "id": "task-__hYb4UF",
       "type": "agent-image",
-      "status": "pending",
+      "status": "completed",
       "priority": "normal",
       "title": "一只狼",
       "description": "一只狼",
@@ -182,12 +182,24 @@
       "output": {
         "branch": null,
         "pr_url": null,
-        "artifacts": []
+        "artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-__hYb4UF/wolf.png",
+          "/Users/koopos/AIGC/images/github-file-agent/task-__hYb4UF/prompt.md",
+          "/generated/task-__hYb4UF/wolf.png"
+        ],
+        "image_artifacts": [
+          "/Users/koopos/AIGC/images/github-file-agent/task-__hYb4UF/wolf.png"
+        ],
+        "preview_urls": [
+          "/generated/task-__hYb4UF/wolf.png"
+        ],
+        "prompt": "一只孤傲的野狼站在寒冷月光下的山脊上，背景是深蓝夜空和远处雪山，毛发细节真实，眼神坚定，电影级光影，高级质感，写实风格，竖版构图，无文字",
+        "summary": "已使用 MiniMax mmx 生成一张写实电影感野狼竖版图片，并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
       "created_at": "2026-05-15T06:52:46.350Z",
       "started_at": null,
-      "completed_at": null,
+      "completed_at": "2026-05-15T07:06:59Z",
       "locked_by": null,
       "locked_at": null
     },
