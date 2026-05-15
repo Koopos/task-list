@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T09:47:32Z",
+  "updated_at": "2026-05-15T09:54:59.618Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -479,10 +479,30 @@
       "error": null,
       "created_at": "2026-05-15T09:35:53.657Z",
       "started_at": null,
-      "completed_at": "2026-05-15T09:46:55Z",
-      "locked_by": "github-task-agent-1",
-      "locked_at": "2026-05-15T09:43:42.949423Z",
-      "updated_at": "2026-05-15T09:47:32Z"
+      "completed_at": "2026-05-15T09:46:55.000Z",
+      "locked_by": null,
+      "locked_at": null
+    },
+    {
+      "id": "task-6tJCN_3F",
+      "type": "agent-image",
+      "status": "pending",
+      "priority": "normal",
+      "title": "ces",
+      "description": "ces",
+      "acceptance_criteria": [],
+      "input": {},
+      "output": {
+        "branch": null,
+        "pr_url": null,
+        "artifacts": []
+      },
+      "error": null,
+      "created_at": "2026-05-15T09:54:50.727Z",
+      "started_at": null,
+      "completed_at": null,
+      "locked_by": null,
+      "locked_at": null
     }
   ]
 }
