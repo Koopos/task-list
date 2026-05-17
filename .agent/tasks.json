@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T09:54:59.618Z",
+  "updated_at": "2026-05-17T04:34:24.138Z",
   "tasks": [
     {
       "id": "task-cT5A7Cu4",
@@ -77,7 +77,7 @@
         "image_style": "codex-xhs-restrained"
       },
       "error": null,
-      "created_at": "2026-05-15T02:54:06.265Z",
+      "created_at": "2026-05-17T04:34:21.820Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -108,7 +108,7 @@
         "summary": "使用 MiniMax mmx 生成科技感小猪飞在天空中图片，9:16竖版"
       },
       "error": null,
-      "created_at": "2026-05-15T04:10:11.401Z",
+      "created_at": "2026-05-17T04:34:21.830Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -164,7 +164,7 @@
         "image_style": "mmx-xhs-restrained"
       },
       "error": null,
-      "created_at": "2026-05-15T05:40:01.893Z",
+      "created_at": "2026-05-17T04:34:21.842Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -197,7 +197,7 @@
         "summary": "已使用 MiniMax mmx 生成一张写实电影感野狼竖版图片，并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
-      "created_at": "2026-05-15T06:52:46.350Z",
+      "created_at": "2026-05-17T04:34:21.856Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -230,7 +230,7 @@
         "summary": "已使用 MiniMax mmx 生成一张写实温暖风格狗狗竖版图片，并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
-      "created_at": "2026-05-15T06:59:56.581Z",
+      "created_at": "2026-05-17T04:34:21.868Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -256,7 +256,7 @@
         "summary": "移除 AboutScreen 中的检查新版本功能，PR 已创建"
       },
       "error": null,
-      "created_at": "2026-05-15T07:27:48.921Z",
+      "created_at": "2026-05-17T04:34:21.879Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -287,7 +287,7 @@
         "pr_url": null
       },
       "error": null,
-      "created_at": "2026-05-15T08:08:00.608Z",
+      "created_at": "2026-05-17T04:34:21.888Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -320,7 +320,7 @@
         "summary": "已生成杯子三视图图片（正视图、侧视图、俯视图），并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
-      "created_at": "2026-05-15T08:45:22.637Z",
+      "created_at": "2026-05-17T04:34:21.896Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -382,9 +382,9 @@
         "image_style": "codex-xhs-restrained"
       },
       "error": null,
-      "created_at": "2026-05-15T08:58:35.023Z",
+      "created_at": "2026-05-17T04:34:21.905Z",
       "started_at": null,
-      "completed_at": "2026-05-15T09:29:12.000Z",
+      "completed_at": null,
       "locked_by": null,
       "locked_at": null
     },
@@ -415,7 +415,7 @@
         "summary": "已使用 MiniMax mmx 生成一张写实温暖风格狗狗竖版图片，并保存 prompt 与 Dashboard 预览副本。"
       },
       "error": null,
-      "created_at": "2026-05-15T09:05:41.125Z",
+      "created_at": "2026-05-17T04:34:21.913Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
@@ -477,9 +477,9 @@
         "image_style": "codex-xhs-restrained"
       },
       "error": null,
-      "created_at": "2026-05-15T09:35:53.657Z",
+      "created_at": "2026-05-17T04:34:21.922Z",
       "started_at": null,
-      "completed_at": "2026-05-15T09:46:55.000Z",
+      "completed_at": null,
       "locked_by": null,
       "locked_at": null
     },
@@ -498,7 +498,7 @@
         "artifacts": []
       },
       "error": null,
-      "created_at": "2026-05-15T09:54:50.727Z",
+      "created_at": "2026-05-17T04:34:21.932Z",
       "started_at": null,
       "completed_at": null,
       "locked_by": null,
